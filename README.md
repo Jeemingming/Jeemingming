@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi~ 🩷
+🖤 I believe that new technologies will help solve societal problems and provide better user experiences in existing services.
+
+🖤 I am currently studying Media Communication and AI•SW convergence at Dong-A University.
 
 <!--
 **Jeemingming/Jeemingming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
